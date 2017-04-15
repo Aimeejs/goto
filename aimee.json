@@ -1,0 +1,20 @@
+{
+  "name": "goto",
+  "version": "1.0.0",
+  "description": "config goto mobile or pc site",
+  "author": "gavinning",
+  "keywords": [
+    "goto",
+    "mobile",
+    "pc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aimeejs/goto.git",
+    "bugs": "https:/github.com/aimeejs/goto/issues"
+  },
+  "dependencies": {
+    "url": "^1.0.0",
+    "isMobile": "^1.0.0"
+  }
+}
